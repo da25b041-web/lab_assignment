@@ -8,6 +8,6 @@ tail -n 10 app.log
 chmod a+x script.sh
 grep "TODO" *.py
 history 20
-top
+htop
 find ../../../ -type d -name "backup"
 sed 's/foo/bar/g' example.txt > new_example.txt
