@@ -1,5 +1,5 @@
 sort -n numbers.txt
-ipconfig
+ifconfig
 cat readme.txt
 wc -l data.csv
 grep -rl "error" logs
